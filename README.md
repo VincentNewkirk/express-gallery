@@ -1,3 +1,5 @@
+Deployed on heroku. https://expressgallery.herokuapp.com/
+
 Express Gallery
 ===============
 
